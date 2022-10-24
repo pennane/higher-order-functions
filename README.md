@@ -9,7 +9,7 @@ Metodit erikseen:
 
 [Array.map & Array.filter (1min)](https://www.youtube.com/watch?v=D0FzqTWedM0&ab_channel=GoogleChromeDevelopers)
 
-[Array.reduce (0min)](https://www.youtube.com/watch?v=tPGQ6pLuiOI&ab_channel=GoogleChromeDevelopers)
+[Array.reduce (1min)](https://www.youtube.com/watch?v=tPGQ6pLuiOI&ab_channel=GoogleChromeDevelopers)
 
 [Array.some & Array.every (1min)](https://www.youtube.com/watch?v=ZCxsknqbuwU&ab_channel=GoogleChromeDevelopers) <- tää on cool, predikaattilogiikka straight outta matikantunti
 
