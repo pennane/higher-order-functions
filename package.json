@@ -4,7 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "1": "node tasks/01-filter/index.js",
+    "2": "node tasks/02-map/index.js",
+    "3": "node tasks/03-forEach/index.js",
+    "4": "node tasks/04-pipelines/index.js",
+    "5": "node tasks/05-reduce/index.js",
+    "6": "node tasks/06-readability/index.js",
+    "7": "node tasks/07-some-every-find/index.js",
+    "8": "node tasks/08-flat-flatmap/index.js"
   },
   "keywords": [],
   "author": "",
